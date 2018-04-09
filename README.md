@@ -1,1 +1,13 @@
-# keesvanderwesten-web
+# 키스반더웨스턴 웹 퍼블리싱
+
+**메인시안 스크린샷**
+
+![_ _ _ _01_on](https://user-images.githubusercontent.com/32973290/38482144-14e06152-3c09-11e8-91e5-131eed90166e.png)
+
+**목표**
+
+1. 순수 HTML5 만을 이용해 마크업 하기 (h1..h3, nav, section, address 등 html5 태그를 이용)
+2. 순수 CSS 만을 이용해서 스타일링 하기 
+3. 크롬, 사파리, 익스플로러 에서 동일한 화면 또는 대체 화면 가능하도록 크로스 브라우징
+4. JQuery 를 이용해서 기본 스크립팅 
+
